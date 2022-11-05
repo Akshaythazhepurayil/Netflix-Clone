@@ -26,3 +26,4 @@ RomanceMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HE
 
 Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=99',
 
+My API_KEY : d1dee78a5e75492a96a6e59b1b9ded8f
